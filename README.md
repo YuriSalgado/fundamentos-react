@@ -27,5 +27,5 @@ Please make sure to update tests as appropriate.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 <p align="center">
-  <img src="https://imgur.com/BuKU3uV?raw=true" alt="Layout cads - react"/>
+  <img src="https://i.imgur.com/BuKU3uV.png" alt="Layout cads - react"/>
 </p>
